@@ -1,0 +1,10 @@
+[package]
+name = "greeter"
+version = "0.1.0"
+edition = "2021"
+authors = ["Max Atslega <max@sintonis.app>"]
+description = "Greeter for sintonis"
+repository = "https://github.com/sintonis/greeter"
+license = "GPL-3.0-or-later"
+
+[dependencies]

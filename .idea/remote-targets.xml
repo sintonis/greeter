@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="2ac591b0-e3c0-4145-b0d3-4119c7877597">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/tmp/tmp.v7ktLnyKTj&#10;, stderr=}/greeter" />
+        </config>
+        <ContributedStateBase type="RsLanguageRuntime">
+          <config>
+            <option name="cargoPath" value="/home/max/.cargo/bin/cargo" />
+            <option name="cargoVersion" value="1.81.0-nightly (154fdac39 2024-07-07)" />
+            <option name="rustcPath" value="/home/max/.cargo/bin/rustc" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

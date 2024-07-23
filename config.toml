@@ -1,0 +1,9 @@
+[log]
+dir = "/home/max/projects/temp/greeter/"
+
+[cache]
+dir = "/var/cache/greeter"
+
+[commands]
+reboot = [ "systemctl", "reboot" ]
+poweroff = [ "systemctl", "poweroff" ]
